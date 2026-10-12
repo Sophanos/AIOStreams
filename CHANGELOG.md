@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.36.1](https://github.com/Viren070/AIOStreams/compare/v2.36.0...v2.36.1) (2026-10-12)
+
+
+### Bug Fixes
+
+* **web:** compile dependencies to the build's browser targets ([bd1de5b](https://github.com/Viren070/AIOStreams/commit/bd1de5bc9720a9fbadfa0f990de7113db3decf7f))
+* **web:** hide pages kept beneath others with visibility as well ([1526431](https://github.com/Viren070/AIOStreams/commit/15264311d664b1d1bbac195fd07dff7182aef9e6))
+
 ## [2.36.0](https://github.com/Viren070/AIOStreams/compare/v2.35.9...v2.36.0) (2026-10-12)
 
 
